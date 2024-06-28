@@ -1,1 +1,0 @@
-# Funcionalidad: Registro de Usuarios
