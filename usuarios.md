@@ -5,3 +5,11 @@
 - Angie Milena.
 
 > Datos basicos
+
+# Datos ingresados rama feature
+
+**Informacion usuarios**
+- tip_doc
+- num_doc
+- nombres
+- apellidos
