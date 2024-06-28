@@ -2,4 +2,4 @@
 Desarrollo del segundo taller del curso de git 
 
 
-"C:\Users\wjsanche\Pictures\sistema-bancario-img.png"
+![Log de git bash con el desarrollo del ejercicio](C:\Users\wjsanche\Documents\Entrenamiento_ModernizacióniSeries\Proyectos\Taller2\sistema-bancario\sistema-bancario-img.png)
