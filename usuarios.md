@@ -22,3 +22,15 @@ Soporte y Ayuda
 
 Acceso a preguntas frecuentes (FAQ).
 Contacto con el soporte al cliente a través de chat en vivo, correo electrónico o teléfono.
+
+modificación:
+Requisitos del Sistema
+Backend:
+
+Lenguaje: Python, Java, o Node.js.
+Framework: Django, Spring Boot, o Express.
+Base de Datos: PostgreSQL, MySQL, o MongoDB.
+Frontend:
+
+Lenguaje: HTML, CSS, JavaScript.
+Framework: React, Angular, o Vue.js.
