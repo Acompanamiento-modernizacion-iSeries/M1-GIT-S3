@@ -8,6 +8,5 @@ Sistema Bancario que permite a los usuarios/clientes comunicarse o conectarse co
 
 ![image](https://github.com/haroldcholesmejia/sistema-bancario/assets/37917448/5862043d-2905-4c21-930e-90e3d67dcdc5)
 
-![image](https://github.com/haroldcholesmejia/sistema-bancario/assets/37917448/7aacc0d8-9da2-48e1-9bb7-34865389d6c8)
 
 
