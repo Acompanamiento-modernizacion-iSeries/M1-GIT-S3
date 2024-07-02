@@ -1,1 +1,1 @@
-Archivo funcionalidades configuraciones de seguridad
+Archivo funcionalidades configuraciones de seguridad se actualiza por hotfix:
