@@ -1,1 +1,1 @@
-archvio para funcionalidad envio correos
+archvio para funcionalidad envio correos, se adicona certificado de seguridad
