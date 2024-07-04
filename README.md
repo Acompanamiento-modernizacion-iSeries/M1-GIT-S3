@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M1-GIT-S3
 # Taller: Sistema Bancario con Múltiples Funcionalidades 2
 > **Larry M. Ramírez - Coach Técnico**
@@ -14,3 +15,10 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 >-   En la segunda rama se deben realizar cambios (mínimo 3 actualizaciones) y estos cambios deben ser llevados a la rama ‘dev-s3’.
 >-   En la tercera rama se deben realizar cambios (mínimo 3 actualizaciones) y llevar únicamente una de las actualizaciones a la rama ‘dev-s3’.  
 -   La rama ‘main’ debe ser actualizada a la versión más reciente por medio de un pull request.
+=======
+# sistema_bancario
+sistema bancario prueba
+
+# Grafico Log
+![Logs](log.png)
+>>>>>>> upstream/main
