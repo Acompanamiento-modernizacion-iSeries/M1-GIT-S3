@@ -1,1 +1,3 @@
-Aqui se registran las tarjetas débito 
+Aqui se registran las tarjetas débito
+
+- Tarjeta débito Mastercard
