@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 
 # Sistema bancario
 
 ![](https://raw.githubusercontent.com/alexis25yo/sistema-bancario/main/sistemaRamas.png)
 
-=======
+
 # M1-GIT-S3
 # Taller: Sistema Bancario con Múltiples Funcionalidades 2
 > **Larry M. Ramírez - Coach Técnico**
