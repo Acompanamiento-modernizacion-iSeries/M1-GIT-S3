@@ -1,0 +1,1 @@
+Archivo funcionalidades logs transaciones
