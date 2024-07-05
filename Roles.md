@@ -1,4 +1,4 @@
 # Roles
 Cajero.
 Asesor.
-Gerente.
+Gerente
