@@ -1,2 +1,2 @@
 # Roles
-
+Cajero.
