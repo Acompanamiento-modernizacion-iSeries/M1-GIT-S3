@@ -10,3 +10,5 @@ modificacion en devs3
 - RDGONZAL
 - JSUAREZ
 - HGOMEZ
+#Taller 3
+- Perfil 1
