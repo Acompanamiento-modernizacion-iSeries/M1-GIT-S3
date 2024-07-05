@@ -1,6 +1,6 @@
 #SISTEMA BANCARIO
 
-![Log de la aplicacion](og.PNG)
+![Log de la aplicacion](Log.PNG)
 # sistema-bancario2
 Taller 3
 modificacion en devs3
