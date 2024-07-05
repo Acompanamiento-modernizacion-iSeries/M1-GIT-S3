@@ -1,4 +1,7 @@
 #SISTEMA BANCARIO
 
-![Log de la aplicacion](C:\D\CAPACITACIONES\RESKILLING\GIT\sistema-bancario\log.PNG)# sistema-bancario2
+![Log de la aplicacion](og.PNG)
+# sistema-bancario2
 Taller 3
+modificacion en devs3
+-usuarios 
