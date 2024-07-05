@@ -1,2 +1,3 @@
 # Roles
 Cajero.
+Asesor.
