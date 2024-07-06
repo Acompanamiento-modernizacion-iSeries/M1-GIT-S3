@@ -14,3 +14,24 @@ Los asistentes configurarán un repositorio remoto en GitHub, aplicando gestión
 >-   En la segunda rama se deben realizar cambios (mínimo 3 actualizaciones) y estos cambios deben ser llevados a la rama ‘dev-s3’.
 >-   En la tercera rama se deben realizar cambios (mínimo 3 actualizaciones) y llevar únicamente una de las actualizaciones a la rama ‘dev-s3’.  
 -   La rama ‘main’ debe ser actualizada a la versión más reciente por medio de un pull request.
+
+
+Desarrollo del segundo taller del curso de git 
+
+
+![Log de git bash con el desarrollo del ejercicio](sistema-bancario-img.png)
+
+Aqui se continúa con el desarrollo del taller #3 se adjuntan algunas capturas de 
+los comandos y funcionalidades creadas:
+
+Imagen 1 comandos para stach
+
+![Log de git bash con el desarrollo del taller 3](Imagen1.png)
+
+Imagen 2 stach finalizado
+
+![Log de git bash con el desarrollo del taller 3.1](Imagen2.png)
+
+Imagen 3 uso del rebase
+
+![Log de git bash con el desarrollo del taller 3.2](Imagen3.png)
