@@ -1,0 +1,3 @@
+#LOGS DE TRANSACCIONES
+1. juand
+2. zapata
