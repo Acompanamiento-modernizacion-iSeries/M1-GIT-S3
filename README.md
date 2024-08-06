@@ -1,3 +1,5 @@
 # sistema-bancario
 
-![alt text](image.png)
+# Katerine Zuleta
+
+![Imagen del log generado en git](log_git.png)
